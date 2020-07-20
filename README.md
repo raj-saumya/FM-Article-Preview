@@ -1,4 +1,9 @@
-# ArticelPreview
+# Article Preview
+
+Practice UI in Angular.
+
+#### Refer for challenge.
+  - https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
